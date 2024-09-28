@@ -90,7 +90,7 @@ Authorization: Bearer <seu-token-jwt>
 
 As rotas protegidas exigem o token JWT no cabeçalho da requisição para verificar se o usuário logado tem permissão para modificar o baralho.
 
-### Cabeçalho de exemplo:
+### Cabeçalho de exemplo
 
 ```plaintext
 Authorization: Bearer <seu-token-jwt>
